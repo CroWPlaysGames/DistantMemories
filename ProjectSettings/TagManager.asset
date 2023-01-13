@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interact
+  - Door
+  - Lock
+  - Bookshelf_1
+  - Bookshelf_2
+  - Typewriter
+  - Flower
+  - Red Seed
+  - Blue Seed
+  - Yellow Seed
+  - Puzzle 2
+  - HUD
+  - Ghost 2
+  - Pot
+  - Interact Text
+  - Dynamite
+  - Door Open
+  - Door Close
+  - Door Unlock
+  - Key
+  - Teddy
+  - Clock
+  - Fan
+  - Boat
+  - Ghost 4
+  - Key Model
+  - Door Key
+  - Ghost 3
+  - Easter Egg
+  - Ghost 1
+  - Portal
+  - Exit
+  - MainDoor
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Post Processing
+  - Blocking
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
