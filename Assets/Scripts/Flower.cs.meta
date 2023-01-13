@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: df5b65e5c5236ea4699f41e9125deac9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puzzle_2: {instanceID: 0}
+  - flower_base: {instanceID: 0}
+  - flower_petals: {instanceID: 0}
+  - interact: {instanceID: 0}
+  - color_red: {fileID: 2100000, guid: 4c59f86c7b727914d87234c08f96c3b7, type: 2}
+  - color_orange: {fileID: 2100000, guid: efaad65bee92da3499f1d0226ec834ff, type: 2}
+  - color_yellow: {fileID: 2100000, guid: 373dd0fe8c62610408fe9080a67a2263, type: 2}
+  - color_green: {fileID: 2100000, guid: dd74ad3ccb5ce824b852d947a703606c, type: 2}
+  - color_blue: {fileID: 2100000, guid: 35a20abc4ae53bc4eb4c492eca059730, type: 2}
+  - color_purple: {fileID: 2100000, guid: 48986baef6b6c084eab9bc4c27c76a9a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
